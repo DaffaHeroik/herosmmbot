@@ -303,6 +303,14 @@
       "quantity": 30000,
       "price": 975,
       "timestamp": 1761560266780
+    },
+    {
+      "orderId": "2895620",
+      "serviceId": 379,
+      "target": "https://t.me/freelancegmailtrusted/4",
+      "quantity": 20,
+      "price": 40.275,
+      "timestamp": 1765925783776
     }
   ],
   "8301230155": [
