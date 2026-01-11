@@ -373,6 +373,14 @@
       "quantity": 500,
       "price": 1322.5,
       "timestamp": 1768097755227
+    },
+    {
+      "orderId": "3086751",
+      "serviceId": 366,
+      "target": "https://t.me/Kurenzo/3627",
+      "quantity": 300,
+      "price": 50.25,
+      "timestamp": 1768098676924
     }
   ],
   "7515124005": [
